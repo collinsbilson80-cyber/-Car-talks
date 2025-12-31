@@ -1,0 +1,18 @@
+.intro { font-size: 50px;
+ text-align: center; 
+}
+h1 {font-size: 80px ;
+  text-align: center;
+}
+h2 {font-size: 65px;
+text-align: center; }
+.closing{ font-size: 60px;
+color: rgba(255, 5, 66, 1);
+  text-align: center;
+text-decoration: underline;
+}
+#get {border-radius: 0 100px 0 100px; 
+ }
+ .button {font-size: 40px;}
+ img {border-radius:0 100px 0 100px ; }
+ #tetris {text-align: left;}
